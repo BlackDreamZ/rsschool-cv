@@ -1,7 +1,7 @@
 # Denis Kolesnichenko #
 ## My Contact Info: ##
 * **Phone:** [+79896240358](tel:+79896240358)
-* **E-mail:** [kolesnichenko-den@mail.ru](mailto:kolesnichenko-den)
+* **E-mail:** [kolesnichenko-den@mail.ru](mailto:kolesnichenko-den@mail.ru)
 * **GitHub:** [BlackDreamZ](https://github.com/BlackDreamZ)
 * **Telegram:** [ReddiBard](https://t.me/ReddiBard)
 ## About Me ##
@@ -18,7 +18,7 @@ I am 19 years old, I study at the university as an applied programmer, my goal i
 * JavaScript (Basic);
 * Version control: Git (remote service GitHub);
 * Module Bundlers: Gulp, Webpack;
-* C (basic knowledge), Python(basic knowledge);
+* C++ (basic knowledge), Python(basic knowledge);
 * Editors: Sublime, Brackets, VS Code, IntelliJ IDEA;
 * Figma (for web development);
 * Windows OS, Linux(Ubuntu).
